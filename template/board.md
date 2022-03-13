@@ -1,3 +1,10 @@
+---
+pdf_options:
+format: A4
+margin: 30mm 20mm
+displayHeaderFooter: false
+---
+
 # NPO法人湘南藤沢Projects yyyy年度第n回理事会議事録
 
 1. 日時 yyyy年MM月dd日HH時からHH時まで
