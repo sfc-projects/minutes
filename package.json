@@ -1,0 +1,12 @@
+{
+  "name": "minutes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sfc-projects/minutes.git",
+  "author": "olaiojo <akhr.daigo@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "md-to-pdf": "^5.1.0"
+  }
+}
